@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Belli.iml" filepath="$PROJECT_DIR$/Belli.iml" group="Belli" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Belli/app" />
+      <module fileurl="file://$PROJECT_DIR$/mjpegviewer/mjpegviewer.iml" filepath="$PROJECT_DIR$/mjpegviewer/mjpegviewer.iml" group="Belli/mjpegviewer" />
+    </modules>
+  </component>
+</project>

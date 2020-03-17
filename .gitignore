@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/mjpegviewer/build/
+/mjpegviewer/build/intermediates/javac/debug/classes/
