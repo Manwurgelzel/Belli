@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: io.particle:cloudsdk:0.5.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf8ab3cbcb59b50d188ca418ed379f2e/jetified-cloudsdk-0.5.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6647c8d56a53285e8beebe32b95f1612/jetified-cloudsdk-0.5.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf8ab3cbcb59b50d188ca418ed379f2e/jetified-cloudsdk-0.5.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf8ab3cbcb59b50d188ca418ed379f2e/jetified-cloudsdk-0.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6647c8d56a53285e8beebe32b95f1612/jetified-cloudsdk-0.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6647c8d56a53285e8beebe32b95f1612/jetified-cloudsdk-0.5.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.particle/cloudsdk/0.5.1/da9b416586397ed7133aaa7a142e907115c7bcc7/cloudsdk-0.5.1-javadoc.jar!/" />

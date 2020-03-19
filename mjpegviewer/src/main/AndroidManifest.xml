@@ -2,9 +2,6 @@
     package="com.appberger.mjpegviewer">
     <uses-permission android:name="android.permission.INTERNET" />
     <application android:allowBackup="true" android:label="@string/app_name">
-        service
-        android:name=".com.appberger.mjpegviewer.DoorbellListener"
-        android:exported="false"/>
     </application>
 
 </manifest>
