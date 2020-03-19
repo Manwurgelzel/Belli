@@ -36,10 +36,6 @@ public class MainActivity extends AppCompatActivity {
         view1.setMode(MjpegView.MODE_FIT_WIDTH);
         view1.setUrl("http://192.168.1.60:8080/video");
         view1.setRecycleBitmap(true);
-        /*if (!isMyServiceRunning(NotificationService.class)){
-            Intent serviceIntent = new Intent(this, NotificationService.class);
-            this.startService(serviceIntent);
-        }*/
         createNotificationChannel();
 
         // [START retrieve_current_token]
@@ -101,15 +97,7 @@ public class MainActivity extends AppCompatActivity {
         view1.stopStream();
         super.onStop();
     }
-    private boolean isMyServiceRunning(Class<?> serviceClass) {
-        ActivityManager manager = (ActivityManager) getSystemService(Context.ACTIVITY_SERVICE);
-        for (ActivityManager.RunningServiceInfo service : manager.getRunningServices(Integer.MAX_VALUE)) {
-            if (serviceClass.getName().equals(service.service.getClassName())) {
-                return true;
-            }
-        }
-        return false;
-    }
+
     private void createNotificationChannel() {
         // Create the NotificationChannel, but only on API 26+ because
         // the NotificationChannel class is new and not in the support library
