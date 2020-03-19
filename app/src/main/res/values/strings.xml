@@ -6,5 +6,6 @@
     <string name="default_notification_channel_id">DEFAULT_CHANNEL</string>
     <string name="fcm_message">Doorbell</string>
     <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="IPAddressBoxText">The internal or external IP address for your camera.</string>
 
 </resources>
